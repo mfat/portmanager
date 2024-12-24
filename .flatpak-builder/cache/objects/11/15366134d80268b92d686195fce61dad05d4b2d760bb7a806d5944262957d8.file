@@ -1,5 +1,0 @@
-[Runtime]
-name=io.github.mfat.portsinfo.Debug
-
-[ExtensionOf]
-ref=app/io.github.mfat.portsinfo/x86_64/master

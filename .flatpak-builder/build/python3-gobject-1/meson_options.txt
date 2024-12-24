@@ -1,3 +1,0 @@
-option('python', type : 'string', value : 'python3')
-option('pycairo', type : 'feature', value : 'auto', description : 'build with pycairo integration')
-option('tests', type : 'boolean', value : true, description : 'build unit tests')
